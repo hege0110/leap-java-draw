@@ -1,7 +1,0 @@
-package leap;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Start Leap Drawing Operation Here!");
-    }
-}
